@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Glyphs/Chat/Light</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Glyphs/Chat/Light" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6.39336211,13.8688793 L1.01274544e-12,16 L2.26671491,12.0332489 C0.863980683,10.862288 0,9.26312264 0,7.5 C0,3.91014895 3.58172178,1 8,1 C12.4182782,1 16,3.91014895 16,7.5 C16,11.0898511 12.4182782,14 8,14 C7.44970912,14 6.91239523,13.9548567 6.39336211,13.8688793 Z" id="Messages-Icon" fill="#111111"></path>
+    </g>
+</svg>

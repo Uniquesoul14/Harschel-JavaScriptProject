@@ -1,0 +1,108 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  
+
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.navbar .container-fluid .navbar-brand img {
+  height: 40px;
+  width: 50px;
+}
+
+.collapse {
+
+  display: flex;
+  justify-content: center;
+}
+.collapse .navbar-nav a:hover{
+  text-decoration: underline;
+  
+}
+.navbar .container-fluid .sideBtn img{
+    height: 16px;
+}
+.navbar .container-fluid .sideBtn ul{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.navbar .container-fluid .sideBtn ul li{
+  padding: 0px 5px ;
+}
+
+footer .container-fluid .card_container img{
+  height: 75px;
+  width: 75px;
+}
+footer .container-fluid .card_container div{
+  display: flex;
+  align-items: center;
+}
+/* footer .container-fluid .contact {
+  border-top: 1px solid;
+} */
+footer .container-fluid .contact div ul li{
+  font-size: 14px;
+  list-style: none;
+}
+footer .container-fluid .contact .contact_info , .formInfo{
+  padding: 0px 10px;
+}
+footer .fb p{
+  font-size: 12px;
+}
+footer .fb p img{
+  width: 25px;
+}
+::placeholder{
+  font-size: 12px;
+}
+main .carouselBody, .carousel, .carousel .carousel-item,.carousel .carousel-inner{
+  height:85vh;
+  width: 100%;
+}
+/* main .carouselBody .carousel{
+  height: 100%;
+}
+main .carouselBody .carousel .carousel-inner{
+  height: 100%;
+} */
+ main .carouselBody, .carousel, .carousel .carousel-inner img, video{
+  height: auto;
+ }
+ main .carouselBody .carousel-inner .carousel-item{
+  position: relative;
+ }
+  main .carouselBody .carousel-inner .carousel-item .carousel-caption{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 60%;
+    left: 30%;
+    flex-direction: column;
+    align-items: start;
+    
+  }
+    /* main .bottomRow{
+      display: flex;
+      justify-content: center;
+      
+    } */
+  main .bottomRow .row div{
+    padding: 10px 5px  ;
+    height: 100%;
+  }
+    main .bottomRow .row div .a_img{
+      height: 90%;
+    }
+    main .bottomRow .row div img{
+      width: 100%;
+      height: 100%;
+    }
+       main .bottomRow .row div a{
+        color: black;
+        font-size: 14px;
+       }

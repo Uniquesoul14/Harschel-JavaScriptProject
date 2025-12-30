@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+main .container-fluid .row{
+    padding: 10px;
+}
+main .container-fluid .productsCol{
+    height:80%;
+}
+main .container-fluid .productsCol .productCard{
+    margin: 10px;
+}
+main .container-fluid .productsCol .productImg{
+
+    height: 70%;
+    
+}
+main .container-fluid .productsCol .productImg img{
+    max-width: 100%;
+    height: auto;
+}
+main .container-fluid .productsCol .productDetail{
+    margin: 10px;
+}
+main .container-fluid .productsCol .productDetail .color_container img{
+    
+    width: 20px;
+    border-radius: 50%;
+
+   
+}

@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+main .login{
+    width: 500px;
+    margin: auto;
+}
+main .register{
+    width: 500px;
+    margin: auto;
+}
+main .register input{
+    margin-top:20px ;
+}
